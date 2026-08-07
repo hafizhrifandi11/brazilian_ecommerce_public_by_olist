@@ -2,8 +2,6 @@
 
 **Source Dataset :** [Dashboard Overview](brazilian.ecommerce.dashboard.pdf) 
 
-An interactive and comprehensive Business Intelligence dashboard built to analyze Brazilian e-commerce public data (Olist). This project uncovers key insights regarding customer behavior, sales trends, geographic distribution, payment methods, and logistics performance.
-
 ---
 ## 📝 Overview Dashboard
 ![Dashboard Preview](https://github.com/hafizhrifandi11/brazilian_ecommerce_public_by_olist/blob/main/Overview.png)
