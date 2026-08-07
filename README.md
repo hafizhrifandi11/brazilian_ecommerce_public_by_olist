@@ -88,11 +88,13 @@ The dashboard provides a high-level executive summary alongside deep-dive explor
 
 ---
 
-## 🔍 Key Business Insights
-* **Geographic Concentration:** Sales and order volume are heavily concentrated in the Southeast region of Brazil, with **São Paulo (SP)** acting as the primary revenue and fulfillment powerhouse.
-* **Payment Preference:** Credit cards dominate transaction types, followed closely by boleto, indicating a strong preference for digital and installment-friendly payment methods.
-* **Order Fulfillment Efficiency:** High delivery success rates reflect robust logistical tracking across participating marketplace sellers.
+## 🔍  Recommendations
 
+1. **Strengthen customer retention** — since average revenue per customer is close to AOV, this suggests low repeat-purchase rates. Consider loyalty programs or personalized promotions to increase customer lifetime value.
+2. **Diversify beyond credit card dependency** — with credit card dominating transactions, explore incentives for boleto/voucher users (e.g., discounts) to reduce payment concentration risk and broaden customer accessibility.
+3. **Expand outside São Paulo** — given the heavy concentration of orders in SP, invest in marketing and logistics infrastructure in high-potential but under-served states like MG, PR, and RJ to diversify revenue sources.
+4. **Monitor and reduce non-delivered orders** — even a small percentage of canceled/unavailable orders represents lost revenue and customer trust; root-cause analysis on these order statuses could improve fulfillment rates further.
+5. **Sustain year-over-year growth momentum** — analyze what drove the 2017→2018 revenue increase (seasonality, new sellers, marketing campaigns) and replicate those strategies going forward.
 ---
 
 ## 👤 Author
